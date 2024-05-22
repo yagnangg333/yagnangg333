@@ -61,9 +61,8 @@ Welcome to my GitHub profile! I'm a passionate student <img src="https://media.g
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagnangg333&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagnangg333&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yagnangg333&theme=dark&background=000000)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagnangg333&layout=compact&theme=vision-friendly-dark)-->
 
 
 ---
